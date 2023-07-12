@@ -1,14 +1,14 @@
 # Site settings
-title:       Games
+title:       游戏人生
 email:       122181582@qq.com
 author:      Shushing Wong
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "人生如戏"
 baseurl:     ""
-url:         "https://pixyll.com"
+url:         "https://wangshucheng.github.io/"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
- - contact.html
+# - contact.html
 
 # Google services
 google_verification:
