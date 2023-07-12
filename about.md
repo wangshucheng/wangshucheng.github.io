@@ -5,5 +5,9 @@ permalink: /about/
 tags: about
 ---
 
-## 我的简介
 王树城
+华南理工大学
+游戏开发者
+Unity
+https://github.com/wangshucheng
+1221八1582@qq.com or wscbear@谷歌.com
