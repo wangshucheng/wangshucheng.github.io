@@ -8,4 +8,4 @@ categories: laya minigame
 
 https://github.com/wangshucheng/JumpChess
 
-![体验](https://wangshucheng.github.io/images/JumpChess.jpeg)
+![体验](https://wangshucheng.github.io/images/JumpChess.jpg)
