@@ -9,6 +9,7 @@ date_format: "%b %-d, %Y"
 header_pages:
  - index.html
  - about.md
+ - book.md
 # - contact.html
 
 # Google services
